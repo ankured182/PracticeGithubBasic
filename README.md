@@ -1,6 +1,6 @@
-# LearnGithub
+# PracticeGithub
 
-Learn GitHub
+Practice GitHub
 
 Liton
 
